@@ -1,0 +1,12 @@
+1. Requesting City Services via AI-Driven Apps
+Residents of Boston can request a variety of non-emergency services through the City’s 311 system. 
+Annually, more than 300,000 requests flow into 311. These include requests for street sweeping, litter pickup, pothole repair, parking enforcement, and dozens of other services. 
+Residents request services by calling our 311 contact center, going to our website, or using the 311 app.
+
+The City believes that we can greatly improve the 311 experience by including AI-based image-recognition in our 311 apps. We envision a future where all a resident has to do is snap a photo of a problem they want to remedy. 
+The AI will analyze the photo, determine the problem, and allow the user to submit a request in seconds. City staff would also benefit from this AI, as miscategorized 311 submissions can lead to mistaken deployment of resources.
+To help bring this to life, a Google Summer of Code contributor will build and train an AI model based on the hundreds of thousands photos submitted to Boston’s 311 system over the last several years. 
+The AI will be capable of analyzing images users submit and determining the type of services they are most likely to be requesting.
+
+This project requires knowledge of AI-based image processing and associated libraries and tools. The trained model must be turned into a performant API that can be accessed through a Web or App-based UI. 
+Advanced app-building experience is not necessary, but we will a basic app to test the model on a variety of devices in varying conditions.
